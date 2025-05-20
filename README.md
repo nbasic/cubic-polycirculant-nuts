@@ -10,5 +10,5 @@ the case of cubic `k`-circulants, the [geng](https://pallini.di.uniroma1.it/) ca
 
 If you are using the software in your research, please cite this paper:
 
- * N. Bašić and I. Damnjanović, On cubic polycirculant nut graphs, 2024,
-   [arXiv:2411.16904](https://doi.org/10.48550/arXiv.2411.16904) [math.CO].
+ * N. Bašić and I. Damnjanović, On cubic polycirculant nut graphs, _Comp. Appl. Math._ **44** (2025),
+   265, [doi:10.1007/s40314-025-03218-7](https://doi.org/10.1007/s40314-025-03218-7).
